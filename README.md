@@ -1,0 +1,1 @@
+This is an HTML-based resume for Syed Muhammad Areeb, designed to showcase professional skills, education, work experience, and contact information in a clean and simple format. The resume is fully built using HTML, making it lightweight, easy to view in any modern browser, and simple to customize with your own information.
